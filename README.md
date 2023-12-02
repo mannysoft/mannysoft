@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PHP/Laravel+Developer;Mobile+Developer+using+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PHP/Laravel+Developer;Mobile+Developer+using+Flutter&size=25&color=0f2187)](https://git.io/typing-svg)
 
 ### About me 👋
 
