@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=PHP/Laravel+Developer;Mobile+Developer+using+Flutter)](https://git.io/typing-svg)
+
 ### About me 👋
 
 I am a passionate web and mobile developer. Been in the industry for more than a decade.
