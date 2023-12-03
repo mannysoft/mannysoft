@@ -2,14 +2,13 @@
 
 ### About me 👋
 
-I am a passionate web and mobile developer. Been in the industry for more than a decade.
-I work mostly using PHP and Laravel but I can also do mobile application using Flutter framework.
+I'm an enthusiastic web and mobile developer with over a decade of experience in the industry. My primary focus is on PHP and Laravel, but I'm also skilled in developing mobile applications using the Flutter framework.
 
-- 🔭 I’m currently working on cloud base HR management system. Time attendance and payroll system to be exact :) 
-- 🌱 I’m currently learning golang. I might use it in the future when PHP/Laravel cant handle the load but I doubt it will happen in the next 5 years.
-- 👯 I’m looking to collaborate on some HR system in different regions and countries. Im more than happy to talk about the system you have.
-- 🤔 I’m looking for help with translations soon.
-- 💬 Ask me about PHP and Laravel things. I can help you for sure.
+- 🔭 I'm currently working on a cloud-based HR management system, specifically focusing on time attendance and payroll. :)
+- 🌱 I'm presently picking up Golang. I might employ it down the line if PHP/Laravel can't manage the workload, though I'm skeptical that'll occur within the next five years.
+- 👯 I'm interested in partnering on an HR system across various regions and countries. I would be delighted to discuss the system you currently have in place.
+- 🤔 I'm seeking assistance with translations in the near future.
+- 💬 Feel free to inquire about anything related to PHP and Laravel. I'm definitely here to assist you.
 - 📫 How to reach me: email me at manny.isles at gmail dot com
 - ⚡ Fun fact: I love to travel with my laptop on me. Got a nice beach near you? Lets go!
 
