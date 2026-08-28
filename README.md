@@ -2,13 +2,85 @@
 
 ### About me 👋
 
-I'm an enthusiastic web and mobile developer with over a decade of experience in the industry. My primary focus is on PHP and Laravel, but I'm also skilled in developing mobile applications using the Flutter framework.
+Senior Laravel Developer | SaaS | CRM | Business Applications | APIs | Payments
 
-- 🔭 I'm currently working on a cloud-based HR management system, specifically focusing on time attendance and payroll. :)
-- 🌱 I'm presently picking up Golang. I might employ it down the line if PHP/Laravel can't manage the workload, though I'm skeptical that'll occur within the next five years.
-- 👯 I'm interested in partnering on an HR system across various regions and countries. I would be delighted to discuss the system you currently have in place.
-- 🤔 I'm seeking assistance with translations in the near future.
-- 💬 Feel free to inquire about anything related to PHP and Laravel. I'm definitely here to assist you.
-- 📫 How to reach me: email me at manny.isles at gmail dot com
-- ⚡ Fun fact: I love to travel with my laptop on me. Got a nice beach near you? Lets go!
+I help businesses build, improve, and scale Laravel-based SaaS platforms, CRMs, business management systems, APIs, and payment solutions.
 
+With 15+ years of PHP development experience and extensive Laravel experience, I can work on everything from a new SaaS MVP to an existing application that needs debugging, modernization, performance optimization, or new features.
+
+What I can help you build
+
+Laravel SaaS applications
+Multi-tenant business applications
+CRM and customer management systems
+Project and workflow management systems
+Subscription-based platforms
+Admin dashboards and business portals
+REST APIs and third-party integrations
+Payment and subscription systems
+Custom business automation
+MVPs and existing application enhancements
+I can also fix and improve existing Laravel applications
+
+If you already have a Laravel application that is difficult to maintain, slow, buggy, or unfinished, I can help.
+
+Typical work includes:
+
+Debugging and fixing Laravel applications
+Refactoring legacy PHP/Laravel code
+Laravel version upgrades
+Database optimization
+Query and performance optimization
+API debugging and development
+Security and architecture reviews
+Queue and Redis optimization
+Memory and performance issues
+AWS and production deployment problems
+Finishing applications built by previous developers
+
+My Core Stack
+
+Backend
+
+PHP
+Laravel
+Livewire
+FilamentPHP
+RESTful APIs
+MySQL
+Redis
+
+Frontend
+
+Livewire
+Tailwind CSS
+JavaScript
+Alpine.js
+
+Payments & Subscriptions
+
+Stripe
+Stripe Connect
+Stripe Billing
+Braintree
+Recurly
+Subscription management
+Payment gateway integrations
+
+Architecture & Infrastructure
+
+SaaS architecture
+Multi-tenancy
+Database architecture
+Software design principles
+AWS
+Docker
+Laravel Forge
+API integrations
+Why work with me?
+
+I don't just write Laravel code. I focus on building software that is maintainable, scalable, secure, and aligned with the actual business workflow.
+
+Whether you need someone to build your SaaS from scratch, add a major feature to an existing platform, integrate a payment provider, or rescue an application that another developer left unfinished, I can help.
+
+If you have an existing Laravel application or a business idea that needs to become a working SaaS product, let's discuss it.
