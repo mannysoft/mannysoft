@@ -12,9 +12,3 @@ I'm an enthusiastic web and mobile developer with over a decade of experience in
 - 📫 How to reach me: email me at manny.isles at gmail dot com
 - ⚡ Fun fact: I love to travel with my laptop on me. Got a nice beach near you? Lets go!
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mannysoft&show_icons=true&theme=">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mannysoft&theme=&date_format=M%20j%5B%2C%20Y%5D">
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mannysoft&layout=compact&theme=">
